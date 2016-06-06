@@ -18,14 +18,27 @@ DevSecOps work is highly technical and requires the following skills:
 
 DevSecOps Engineers operate to fulfill a variety of work in their day-to-day job.  Much of this work can be categorized as follows:
 
-1. Red Team (commonly performed on Mondays)
-2. Blue Team
-3. Security Engineering
-4. Operations
-5. Secure Development
-6. Security Science
-7. Security Testing
-8. Continuous Response
+## Red Team 
+
+Red Team work is integral to the change management required for cultural transformation.  The best day to perform Red Team work is Monday.  Why Monday?  Mondays were chosen because it is most commonly the day everyone dreads.
+
+## Blue Team
+
+## Security Engineering
+
+## Operations
+
+## Secure Development
+
+## Security Science
+
+## Security Testing
+
+## Continuous Response
+
+## Compliance Operations
+
+## Consulting
 
 
 
